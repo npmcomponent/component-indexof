@@ -7,13 +7,5 @@
     "array",
     "indexOf"
   ],
-  "component": {
-    "scripts": {
-      "indexof/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/indexof.git"
-  }
+  "dependencies": {}
 }
